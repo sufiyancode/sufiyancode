@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Shaikh Sufiyan (@amazingsufiyancode)
+# 👋 Hi, I'm Shaikh Sufiyan (@sufiyancode)
 
 ## 🚀 About Me
 Passionate Software Engineer and AI enthusiast with a knack for solving real-world problems through innovative technologies. Currently pursuing a Bachelor's in Electronics and Telecommunication at  BVCOEL, Pune .
