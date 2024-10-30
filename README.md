@@ -44,7 +44,3 @@ Bachelor's in Electronics and Telecommunication, BVCOEL, Pune (Ongoing)
 
 ## 📫 Let's Connect!
 I'm actively seeking new opportunities in  Software Engineering  and Fullstack Development . Let's connect on [LinkedIn](https://www.linkedin.com/in/sufiyan-shaikh22/) and explore how we can innovate together!
-
-## Hacktoberfest
-
-[![An image of @sufiyancode's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sufiyancode)](https://holopin.io/@sufiyancode)
